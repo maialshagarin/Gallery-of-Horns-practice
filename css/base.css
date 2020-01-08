@@ -1,0 +1,41 @@
+@import 'reset.css';
+* {
+    box-sizing: border-box;
+}
+
+body{
+background: lavender;
+}
+
+header{
+        background-color: rgb(41, 61, 41);
+    }
+
+
+h1{
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 40px;
+  color: #a4c040;
+  font-style: oblique;
+  transition: 0.8s;
+}
+
+h2{
+    font-family: cursive;
+    font-size: 20px;
+    color: #a4c040;
+    transition: 0.8s;
+  }
+
+  button{
+    background-color:  rgb(41, 61, 41);
+    color: #a4c040;
+    font-family: cursive;
+    font-size: 20px;
+  }
+footer{
+background-color: rgb(41, 61, 41);
+color: #a4c040;
+font-family: cursive;
+}
+

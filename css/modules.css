@@ -1,0 +1,47 @@
+  
+h1:hover{
+    transform: scale(1.2);
+    }
+    
+
+h2:hover{
+    transform: scale(1.2);
+    color:  rgb(41, 61, 41)4075;
+        }
+    
+img:hover {
+      opacity: 1;
+      transform: scale(1.2);
+      margin-bottom: 30px;
+      margin-top: 30px;
+      border: 5px solid #a4c040;
+       }
+
+select{
+    transition: 0.8s;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  img {
+    transition: 0.8s;
+    opacity: .7;
+  }
+  
+ button{
+    cursor: pointer;
+    transition: 0.8s;
+ }
+  button:hover{
+    border: #fff solid 2px;
+    background-color: rgb(41, 61, 41);
+    color: lavender;
+    border-radius: 100%;
+    text-shadow: white 3px 3px 6px, 6px 6px 12px;
+ }
+  select:hover{
+      background-color: #182025;
+      color: white;
+  }
+  footer{
+    opacity: 1;
+  }
